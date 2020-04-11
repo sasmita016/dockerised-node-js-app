@@ -30,7 +30,13 @@ After running the docker command, please verify:
 docker images (output)
 
 REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
+
+
+
 nodejs/app          latest              8c8936840d25        32 minutes ago      904 MB
+
+
+
 node                carbon              8eeadf3757f4        3 months ago        901 MB
 
 
